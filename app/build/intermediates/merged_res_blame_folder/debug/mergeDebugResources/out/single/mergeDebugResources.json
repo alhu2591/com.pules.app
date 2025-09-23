@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.pules.app-debug-63:/drawable_ic_launcher_foreground.png.flat",
+        "source": "com.pules.app-main-65:/drawable/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/drawable_ic_read_later.xml.flat",
+        "source": "com.pules.app-main-65:/drawable/ic_read_later.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.pules.app-main-65:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/xml_shortcuts.xml.flat",
+        "source": "com.pules.app-main-65:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.pules.app-main-65:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/layout_pules_app_widget.xml.flat",
+        "source": "com.pules.app-main-65:/layout/pules_app_widget.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/xml_pules_app_widget_info.xml.flat",
+        "source": "com.pules.app-main-65:/xml/pules_app_widget_info.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/layout_pules_app_widget_item.xml.flat",
+        "source": "com.pules.app-main-65:/layout/pules_app_widget_item.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/drawable_ic_favorite.xml.flat",
+        "source": "com.pules.app-main-65:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "com.pules.app-debug-63:/drawable_ic_notification.png.flat",
+        "source": "com.pules.app-main-65:/drawable/ic_notification.png"
+    }
+]

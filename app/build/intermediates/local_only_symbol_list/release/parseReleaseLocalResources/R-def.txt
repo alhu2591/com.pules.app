@@ -1,0 +1,27 @@
+R_DEF: Internal format may change without notice
+local
+drawable ic_favorite
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable ic_notification
+drawable ic_read_later
+id widget_empty_view
+id widget_item_container
+id widget_item_source
+id widget_item_title
+id widget_list
+layout pules_app_widget
+layout pules_app_widget_item
+mipmap ic_launcher
+string app_name
+string arabic
+string cancel
+string english
+string select_language
+string shortcut_favorites_long
+string shortcut_favorites_short
+string shortcut_read_later_long
+string shortcut_read_later_short
+style Theme.Pules
+xml pules_app_widget_info
+xml shortcuts
